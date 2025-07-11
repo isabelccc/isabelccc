@@ -65,18 +65,6 @@ Object-Oriented Design, Data Structures & Algorithms, Data Analysis, Basic Codin
 
 ---
 
-### 🚀 Projects & Experience
-
-- 🛒 **Temu (Jun 2024 – Sep 2024)**  
-  Built distributed crawling/indexing systems handling 10M+ SKUs using Python/C++. Enhanced engagement by 30% via data visualization tools (React + Flask). Optimized latency by 40% with F5 APIs + Pandas log analytics.
-
-- 📡 **High-Concurrency WebRTC Media Server**  
-  Designed an epoll-based async I/O system for 50K+ sockets. Built congestion control and geo-distributed scaling using Docker/K8s on AWS.
-
-- 📊 **Cloud-Native ETL & Reporting System**  
-  Auto-scaled data pipelines using Terraform, EMR, and PostgreSQL. Reduced dashboard latency by 25% using GraphQL and REST APIs.
-
----
 
 ### 📊 GitHub Stats
 
