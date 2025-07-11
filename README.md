@@ -83,6 +83,7 @@ Object-Oriented Design, Data Structures & Algorithms, Data Analysis, Basic Codin
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/isabelccc?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
+![Ocean GIF](https://raw.githubusercontent.com/Matrix278/Matrix278/output/ocean.gif)
 
 ### 🌐 Connect with Me
 
