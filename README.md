@@ -58,4 +58,4 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/isabel-chen-28a04829a/)  
-[![Portfolio](https://isabelchendemo.com/)
+[![Portfolio](https://isabelchendemo.com/)]
